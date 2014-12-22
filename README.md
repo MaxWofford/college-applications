@@ -1,6 +1,6 @@
-#Massachusetts Institute of Technology
+#College Applications
 
-This repository contains my application to the Massachusetts Institute of Technology.
+This repository contains my application to (TODO: list of colleges).
 
 ###Credit
 
