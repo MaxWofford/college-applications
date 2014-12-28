@@ -36,3 +36,7 @@ Please tell us more about your cultural background and identity in the space bel
 1. Virtually all of Stanford's undergraduates live on campus. Write a note to your future roommate that reveals something about you or that will help your roommate — and us — know you better. (100 to 250 words)
 
 1. What matters to you, and why? (100 to 250 words)
+
+# UIC
+
+1. Please provide an essay that explains why you chose your intended program of study. What interests you the most about this major? If Undecided, what areas of study do you look forward to studying in college? (50-500 words)
