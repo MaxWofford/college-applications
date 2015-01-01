@@ -1,6 +1,9 @@
 # Massachusetts Institute of Technology
 
 1.	We know you lead a busy life, full of activities, many of which are required of you. Tell us about something you do for the pleasure of it. (*)(100 words or fewer)
+```
+Around my sophomore year of high school I began creatively writing in my free time. Soon I posted my stories online. I found other writers and storytellers, and began talking about my experiences and use of creative tools with them. After a long brainstorming session, I decided to collaboratively write with another science-fantasy writer. We would write alternating chapters each week from the perspective of different characters without discussing what we wrote ahead of time. We have just completed are just over 100 pages, and still working on it.
+```
 
 1.	Although you may not yet know what you want to major in, which department or program at MIT appeals to you and why? (*) (100 words or fewer)
 
